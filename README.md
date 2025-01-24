@@ -279,6 +279,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 ## Marketing
 
 - [Marketing Examples](https://marketingexamples.com/) - 150+ short, sweet, practical examples
+- [LibreQR](https://libreqr.com/) - Generate simple & advanced QR codes. Easy, customizable & trackable.
 
 ## Boilerplate
 
